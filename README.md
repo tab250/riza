@@ -1,4 +1,8 @@
 # riza
+Riza (greek for "root"). It has been observed that trees that form networks of roots are able to share resources through the help of fungi and bacteria.
+https://sitn.hms.harvard.edu/flash/2019/exploring-the-underground-network-of-trees-the-nervous-system-of-the-forest/
+
+
 A website that will allow researchers and scientists to stay in sync with their lab and the scientific community.
 
 Python, Django, PostgreSQL
